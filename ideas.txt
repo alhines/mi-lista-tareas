@@ -1,1 +1,1 @@
-"Idea: Agregar funci¢n para editar tareas de andy" 
+"Idea: Funci¢n de tareas pendientes" 
