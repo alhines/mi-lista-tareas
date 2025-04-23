@@ -1,1 +1,1 @@
-"Idea: A¤adir bot¢n para marcar tarea como completada" 
+"Idea: Agregar funci¢n para editar tareas de andy" 
