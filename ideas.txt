@@ -1,1 +1,1 @@
-"Idea: Agregar opci¢n de edici¢n" 
+Idea: Agregar opción de edición y botón para marcar como completado
