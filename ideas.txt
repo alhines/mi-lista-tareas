@@ -1,1 +1,2 @@
 Idea: Agregar opción de edición y botón para marcar como completado
+"Idea: Hacer la lista de tareas con modo oscuro" 
