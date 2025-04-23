@@ -1,1 +1,1 @@
-"Idea para mejorar la app: agregar eliminaci¢n de tareas" 
+"Idea: Agregar funci¢n para editar tareas" 
